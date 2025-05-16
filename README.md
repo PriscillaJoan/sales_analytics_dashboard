@@ -11,7 +11,7 @@ SQL: Used for querying and preparing transactional data related to customers, pr
 Tableau: Used to build dynamic dashboards for stakeholder use, including performance KPIs and deep-dive insights
 Descriptive Analysis: Performed on customer lifetime value, product revenue efficiency, and supplier impact
 
-# Solution Overview:
+# Dashboard Overview:
 Customer Dashboard: customer revenue contributions, monthly trends, and payment preferences.
 Product Dashboard: Compared quantity sold vs. revenue, assessed discount ROI, and highlighted high-risk cancellation products
 Supplier Dashboard: Measured supplier performance using reliability scores, lead times, and revenue metrics
